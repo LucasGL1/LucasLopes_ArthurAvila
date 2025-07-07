@@ -13,7 +13,7 @@ O script "create-project.sh" cria um projeto Maven/Java básico para ser usado e
 O script "create-vaadin-project.sh" cria um projeto Maven/Spring-Boot/Vaadin para ser usado em disciplinas de programação
 - Para que o uso deste script seja possível é necessário que o mesmo tenha permissão de execução. Antes de usar o script pela primeira vez use o comando: `chmod +x create-vaadin-project.sh`
 - Para criar um projeto usando o script use o comando: `./create-vaadin-project.sh com.exemplo meu-projeto`
-- Para compilar e executar o projeto use o comando: `mvn spring-boot-run`
+- Para compilar e executar o projeto use o comando: `mvn spring-boot:run`
 
 ## Criação de projetos SpringBoot
 - Use o plugin de criação de projetos Spring-Boot do VSCode
