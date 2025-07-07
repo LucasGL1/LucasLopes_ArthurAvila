@@ -4,9 +4,13 @@ Configurado para desenvolvimento em Java21
 Pensado para ser usado como "Monorepo" para uma série de projetos de aula
 
 ## Criação de Projetos Java Básicos
-O script "create-project.sh" cria um projeto Java básico para ser usado em disciplinas de algoritmos e programação
+O script "create-project.sh" cria um projeto Maven/Java básico para ser usado em disciplinas de algoritmos e programação
 - Para que o uso deste script seja possível é necessário que o mesmo tenha permissão de execução. Antes de usar
 o script pela primeira vez use o comando: "chmod +x create-project.sh"
 - Para criar um projeto usando o script use o comando: "./create-project.sh com.exemplo meu-projeto"
 
+## Criação de projetos usando Vaadin
 
+
+## Criação de projetos SpringBoot
+- Use o plugin de criação de projetos Spring-Boot do VSCode
