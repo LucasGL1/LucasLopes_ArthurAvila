@@ -2,6 +2,7 @@
 - Repositório base para uso em disciplinas de desenvolvimento de software
 - Configurado para desenvolvimento em Java21 
 - Pensado para ser usado como "Monorepo" para uma série de projetos de aula
+- As instruções a seguir referem-se ao uso deste repositório em conjunto com o CodeSpaces
 
 ## Criação de Projetos Java Básicos
 O script "create-project.sh" cria um projeto Maven/Java básico para ser usado em disciplinas de algoritmos e programação
